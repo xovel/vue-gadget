@@ -1,0 +1,13 @@
+extends:
+  - zob
+
+env:
+  amd: true
+  mocha: true
+
+globals:
+  zmd: true
+
+rules:
+  semi: 0
+  complexity: 0

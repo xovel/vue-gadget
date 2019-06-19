@@ -1,0 +1,33 @@
+{
+  "name": "vue-gadget",
+  "version": "0.0.1",
+  "description": "Arbitrary vue components, directives, mixins, filters, utils, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xovel/vue-gadget.git"
+  },
+  "keywords": [
+    "vue",
+    "components",
+    "directives",
+    "mixins",
+    "filters",
+    "utils"
+  ],
+  "author": {
+    "name": "xovel",
+    "email": "xovel@foxmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xovel/vue-gadget/issues"
+  },
+  "homepage": "https://github.com/xovel/vue-gadget#readme",
+  "peerDependencies": {
+    "vue": "^2.6.10"
+  }
+}
